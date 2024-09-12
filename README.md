@@ -1,7 +1,7 @@
 # Classification of Irises Using Gaussian Naive Bayes Classifier  
 
 ## Project Overview
-This project provides an analysis and classification of the Iris dataset using *Scikit-learn*. The (**Iris Dataset**)[https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html] is one of the most famous datasets in machine learning and statistics and is often used as a beginner's dataset for classification problems. 
+This project provides an analysis and classification of the Iris dataset using *Scikit-learn*. The [**Iris Dataset**](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) is one of the most famous datasets in machine learning and statistics and is often used as a beginner's dataset for classification problems. 
 
 The aim of this project is to classify irises into either _"Setosa", "Versicolour"_ or _"Virginica"_, based on their petal width, petal length, sepal length and sepal width using **GaussianNB classifier**.
 
